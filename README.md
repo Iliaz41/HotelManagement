@@ -1,2 +1,2 @@
-# CourseWork
-Hotel room management program
+# HotelManagement
+Coursework "Hotel room management program"
